@@ -23,9 +23,21 @@ Turn your eBook PDFs into an AI agent
 - **Whom**: The primary beneficiaries of this project are learners seeking efficient and interactive ways to consume knowledge. Additionally, educators can benefit from quick access to relevant information, while publishers can expand their reach by collaborating.
 - **How**: With the help of ElevenLabs, Langchain, LlamaIndex, OpenAI and Streamlit chat
 
-## Feature - 1 : AudioBook powered by ElevenLabs
-## Feature - 2 : Summarizer
-## Feature - 3 : QueryBot
-## Feature - 4 : eBook Recommendations
+## Feature - 1: AudioBook powered by ElevenLabs
 
+![feat1](https://github.com/ajayreddy98/eBook-Voice/assets/104071144/29e88f7e-2c19-4ae3-bbed-d1b970e2179e)
+
+## Feature - 2: Summarizer
+
+![feat2](https://github.com/ajayreddy98/eBook-Voice/assets/104071144/247463ab-c4c4-44cc-ab48-e13cd7953687)
+
+
+## Feature - 3: QueryBot
+
+![feat3](https://github.com/ajayreddy98/eBook-Voice/assets/104071144/9e4b5d7f-2ca5-44a9-8f70-106c411dec2b)
+
+
+## Feature - 4: eBook Recommendations
+
+![feat4](https://github.com/ajayreddy98/eBook-Voice/assets/104071144/30755b78-0379-4769-bb48-69558518d2c1)
 
